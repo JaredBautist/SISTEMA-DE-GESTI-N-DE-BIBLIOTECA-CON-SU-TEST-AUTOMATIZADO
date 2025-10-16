@@ -48,7 +48,7 @@ sistema-biblioteca/
 1. **Clonar el repositorio:**
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/JaredBautist/SISTEMA-DE-GESTI-N-DE-BIBLIOTECA-CON-SU-TEST-AUTOMATIZADO.git
 cd sistema-biblioteca
 ```
 
